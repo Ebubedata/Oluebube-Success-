@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebubedata" alt="ebubedata" /></a> </p>
 
+I am a passionate Data Analyst, that helps transform raw data into meaningful insights to support decision-making. I enjoy solving real life problems and presenting insights through clear dashboards and reports. I am always open to learning new things in order to make better data-driven decisions.
+
 - 🔭 I’m currently working on **Health Dashboard**
 
 - 🌱 I’m currently learning **Sql, Power BI**
